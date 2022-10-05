@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c# for making games with unity
 - 💞️ I’m looking to collaborate on python 
-- 📫 How to reach me ...
+- 📫 Contact me on discord - Ignis#3040
 
 <!---
 Coolstormaction/Coolstormaction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
