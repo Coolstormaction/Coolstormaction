@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coolstormaction
 - 👀 I’m interested in programming
-- 🌱 I’m currently working on a Terminal project, contact me if you want to contribute. (Discord - Ignis#3040)
+- 🌱 I’m currently working on a toy programming language with @RathoreAgastya
 - 💞️ I’m looking to collaborate on python 
 - 📫 Contact me on discord - Ignis#3040
 
