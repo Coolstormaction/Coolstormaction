@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Debarka aka Coolstormaction. I'm a 11 year old student and programmer based on West Bengal, India. <br>I I make random shit.
+I'm Debarka aka Coolstormaction. I'm a 11 year old student and programmer based on West Bengal, India. <br>I make random shit.
 
 
 ## 🌐 Socials:
