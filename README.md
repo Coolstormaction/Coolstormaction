@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/debarkanaskar" target="blank"><img src="https://img.shields.io/twitter/follow/debarkanaskar?logo=twitter&style=for-the-badge" alt="debarkanaskar" /></a> </p>
 
-- 🔭 I’m currently working on **Terminal website**
+- 🔭 I’m currently working on **AOC**
 
 - 🌱 I’m currently learning **C++**
 
-- 🤝 I’m looking for help with **Terminal Website**
+- 🤝 I’m looking for help with **advent of code**
 
 - 👨‍💻 All of my projects are available at [https://coolstormaction.github.io/himu.github.io/](https://coolstormaction.github.io/himu.github.io/)
 
