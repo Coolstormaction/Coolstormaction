@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/debarkanaskar" target="blank"><img src="https://img.shields.io/twitter/follow/debarkanaskar?logo=twitter&style=for-the-badge" alt="debarkanaskar" /></a> </p>
 
-- 🔭 I’m currently working on **Light INC**
+- 🔭 I’m currently working on **Triggered Memer**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Rust**
 
-- 🤝 I’m looking for help with **Encrypterish**
+- 🤝 I’m looking for help with **Triggered Memer**
 
 - 👨‍💻 All of my projects are available at [https://coolstormaction.github.io/himu.github.io/](https://coolstormaction.github.io/himu.github.io/)
 
